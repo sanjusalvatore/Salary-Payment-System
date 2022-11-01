@@ -1,7 +1,7 @@
 
 # Bulk Salary Payment Smart Contract
 
-Salary Payment Smart contract is Bulk transfer system where Employees get Monthly bases salary if Company failed to pay money and comnpany payes compensation for every day.
+Salary Payment Smart contract is Bulk transfer system where Employees get Monthly bases salary if Company failed to pay money and comnpany payes compensation for every day....
 
 
 # Functions for the companies
